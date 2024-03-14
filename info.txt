@@ -1,1 +1,7 @@
 Hello World
+
+
+ git config --global user.email "prince.vishal229@gmail.com"
+
+ git config --global user.name "princevishal229"
+
